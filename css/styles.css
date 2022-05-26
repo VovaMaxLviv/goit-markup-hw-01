@@ -1,3 +1,39 @@
 body {
     color: black;
 }
+.bisnes {
+    position: absolute;
+        width: 696px;
+        height: 120px;
+        left: 452px;
+        top: 280px;
+    
+        font-family: 'Roboto';
+        font-style: 400;
+        font-weight: 900;
+        font-size: 44px;
+        line-height: 60px;
+        /* or 136% */
+        text-align: center;
+        letter-spacing: 0.06em;
+        text-transform: uppercase;
+        color: #FFFFFF;
+}
+
+.comand {
+position: absolute;
+    width: 264px;
+    height: 42px;
+    left: 668px;
+    top: 1543px;
+
+    font-family: 'Roboto';
+    font-style: 400;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+    letter-spacing: 0.03em;
+
+    color: #212121;
+}
